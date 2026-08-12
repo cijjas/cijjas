@@ -4,7 +4,7 @@ Computer Software Engineer at [ITBA](https://itba.edu.ar).
 
 [Email](mailto:chrisitan.ijjas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christian-ijjas-b194b7199/) · [X](https://x.com/cijjas)
 
-I build focused products across native apps, full-stack systems, developer tools, data visualization, and applied AI. I care about simple interfaces, honest engineering tradeoffs, and software that solves a concrete problem.
+I build focused products across native apps, full-stack systems, developer tools, data visualization, and agentic AI. I care about simple interfaces, honest engineering tradeoffs, and autonomous software that solves a concrete problem.
 
 Currently working on [Simpla](https://simplalegal.com) and [Clankoids](https://clankoids.com).
 
@@ -25,13 +25,17 @@ Currently working on [Simpla](https://simplalegal.com) and [Clankoids](https://c
 - [**Huella**](https://memoriastrendelbajo.com): an interactive experience for exploring the historical records of the Tren del Bajo.
 - [**Kubernetes Data Pipeline**](https://github.com/cijjas/k8s-data-pipeline): four distributed services on Kubernetes with Helm, PostgreSQL, Redis, OpenTelemetry, and CI/CD.
 - [**SIA**](https://github.com/cijjas/sia): from-scratch implementations of search, genetic algorithms, neural networks, SOMs, Hopfield networks, and autoencoders.
+- `Hackathon` [**Discord Study Bot**](https://github.com/cijjas/Discord-Study-Bot): a HackITBA team project combining Discord slash commands, Pomodoro study sessions, and OpenAI features.
+- `Hackathon` [**Summa**](https://github.com/cijjas/Summa): an early WhatsApp AI assistant for conversation summaries, GPT replies, voice transcription, reminders, and image generation.
 
 ## Tools I use
 
 **Languages:** Swift, TypeScript, Python, Java, C, SQL<br>
 **Product:** SwiftUI, Next.js, React, Node.js, FastAPI, NestJS<br>
 **Systems:** PostgreSQL, Redis, Docker, Kubernetes, AWS, GCP, GitHub Actions<br>
-**AI and data:** RAG, vector search, LLM integrations, PyTorch, scikit-learn, D3
+**AI agents:** tool-using agents, autonomous workflows, reusable skills, multi-agent orchestration, parallel terminal sessions, RAG, vector search, and evaluation<br>
+**Agent workflow:** Claude Code, Codex, MCP integrations, GitHub CLI, isolated worktrees, and human-in-the-loop review<br>
+**AI and data:** LLM integrations, PyTorch, scikit-learn, D3
 
 ## Experience
 
