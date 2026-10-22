@@ -76,14 +76,4 @@ Currently working on [**Simpla**](https://simplalegal.com) and [**Clankoids**](h
 
 ---
 
-### Work
-
-**Cerevro.ai**, AI Engineer (Jan '25 to Apr '25)<br>
-Built an AI pipeline processing 100K+ monthly feedback entries with LLM sentiment analysis. Led five high-revenue client integrations.
-
-**SamurAI**, Full Stack and AI Engineer (Jul '24 to Jan '25)<br>
-Built an agentic analytics assistant for querying $2M+ in ad spend. Migrated BigQuery to PostgreSQL with 67% faster queries. Automated deployments saving 40+ hours per month.
-
----
-
 <sub>es · en · de · hu</sub>
