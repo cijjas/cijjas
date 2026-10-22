@@ -18,18 +18,6 @@ Currently working on [**Simpla**](https://simplalegal.com) and [**Clankoids**](h
 
 ---
 
-### What I work with
-
-**Languages:** Swift, Python, TypeScript, Java, C, SQL<br>
-**Product:** SwiftUI, Next.js, React, Node.js, FastAPI, Flask, NestJS<br>
-**Data:** PostgreSQL, MongoDB, Redis, Databricks, D3<br>
-**Cloud & Infra:** AWS, GCP, Docker, Kubernetes, Helm, GitHub Actions, GitLab CI/CD<br>
-**AI & ML:** LLM integrations, RAG, vector search, PyTorch, scikit-learn, evaluation<br>
-**AI Agents:** tool-using agents, autonomous workflows, reusable skills, multi-agent orchestration, MCP integrations, isolated worktrees, and parallel terminal sessions<br>
-**Agent Workflow:** Claude Code, Codex, GitHub CLI, human-in-the-loop review, and agent-driven automation
-
----
-
 ### Projects
 
 #### Latest
@@ -95,13 +83,6 @@ Built an AI pipeline processing 100K+ monthly feedback entries with LLM sentimen
 
 **SamurAI**, Full Stack and AI Engineer (Jul '24 to Jan '25)<br>
 Built an agentic analytics assistant for querying $2M+ in ad spend. Migrated BigQuery to PostgreSQL with 67% faster queries. Automated deployments saving 40+ hours per month.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cijjas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijjas&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&include_all_commits=true&count_private=true" height="160" />
-</p>
 
 ---
 
